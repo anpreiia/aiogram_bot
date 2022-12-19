@@ -8,9 +8,6 @@ PLANTS = dict([])
 EMPTY_GARDEN = [[NONE, 1], [NONE, 1], [NONE, 1], [NONE, 1], [NONE, 1],
                 [NONE, 1], [NONE, 1], [NONE, 1], [NONE, 1], [NONE, 1]]
 
-TEST_GARDEN = [["TULP", 1], [NONE, 1], ["TULP", 1681313604], ["TULP", 1], [NONE, 1],
-               [NONE, 1], ["TULP", 1], [NONE, 1], [NONE, 1], [NONE, 1]]
-
 PLAYER_START_MONEY = 15
 
 
